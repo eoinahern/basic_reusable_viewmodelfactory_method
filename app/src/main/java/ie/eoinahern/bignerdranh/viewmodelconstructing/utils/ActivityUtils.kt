@@ -1,4 +1,4 @@
-package ie.eoinahern.bignerdranh.viewmodelconstructing
+package ie.eoinahern.bignerdranh.viewmodelconstructing.utils
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModel
